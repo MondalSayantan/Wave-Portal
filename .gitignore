@@ -4,6 +4,7 @@ coverage
 coverage.json
 typechain
 Screenshots
+build
 
 #Hardhat files
 cache
